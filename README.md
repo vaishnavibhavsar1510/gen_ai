@@ -6,3 +6,4 @@ It uses other tools to create a model that based on the prompts generates an ima
 
 Project helps to get efficient answers to user 
 Use : As a tutor, guide to learn
+Python bot based on streamlit
