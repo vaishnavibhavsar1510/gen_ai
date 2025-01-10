@@ -5,3 +5,4 @@ It uses other tools to create a model that based on the prompts generates an ima
  Languages: Python
 
 Project helps to get efficient answers to user 
+Use : As a tutor, guide to learn
